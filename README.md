@@ -1,5 +1,7 @@
 # PROJETO FINAL - CURSO EMBARCATECH
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/kevinm4ch/final-embarca)
+
 ## Descrição
 Este projeto implementa um contador utilizando a placa Raspberry Pi Pico W com a placa BitDog Lab, um display OLED SSD1306 via comunicação I2C e dois botões. Os botões são usados para controlar o contador, ao clicar no botão B o contador deve incrementar e ao clicar no botão A o contador deve decrementar, somente números positivos serão mostrados então caso o contador seja igual a zero não será possível decrementar novamente, o contador será exibido no display OLED.
 
